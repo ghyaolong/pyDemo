@@ -19,7 +19,15 @@ def get_one_page(url):
     #reg = re.compile('<dd>.*?board-index.*?>(.*?)</i>.*?data-src="(.*?)".*?name.*?a.*?>(.*?)</a>.*?star.*?>(.*?)</p>.*?releasetime.*?>(.*?)</p>.*?integer.*?>(.*?)</i>.*?fraction.*?>(.*?)</i>.*?</dd>',re.S)
     items = reg.findall(r.text)
     for item in items:
-        print(item)
+        #print(item)
+        yield {
+            'index:':item[0],
+            'iamge':item[1],
+            'title': item[2].strip(),
+            'actor': item[3].strip()[3:] if len(item[3]) > 3 else '',
+            'time': item[4].strip()[5:] if len(item[4]) > 5 else '',
+            'score': item[5].strip() + item[6].strip()
+        }
 
 
 def main():
