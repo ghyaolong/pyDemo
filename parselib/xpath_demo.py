@@ -94,7 +94,7 @@ text='''
 
 
 
-##  节点抽选择
+##  节点轴选择
 html = etree.HTML(text)
 # 获取当前节点的所有父节点
 # result = html.xpath('//li[1]/ancestor::*')
@@ -109,12 +109,20 @@ html = etree.HTML(text)
 # print(result)
 
 ##
-result = html.xpath('//li[1]/child::a[@href="link1.html"]')
-print(result)
+# result = html.xpath('//li[1]/child::a[@href="link1.html"]')
+# print(result)
+#
+# ##选取当前节点的所有后代元素（子、孙等）
+# result = html.xpath('//li[1]/descendant::span')
+# print(result)
 
-result = html.xpath('//li[1]/descendant::span')
-print(result)
+##选取文档中当前节点的结束标签之后的所有节点。
+# result = html.xpath('//li[1]/following::*[2]')
+# print(result[0].values())
 
+## 选取当前节点之后的所有同级节点
+result = html.xpath('//li[1]/following-sibling::*')
+print(len(result))
 
 
 
