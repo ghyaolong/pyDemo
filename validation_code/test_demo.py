@@ -11,7 +11,7 @@ import tesserocr
 from PIL import Image
 image = Image.open('test.png')
 # 将图片进行灰化和二值化处理
-iamge = image.convert('L')
+image = image.convert('L')
 threshold = 127
 table = []
 for i in range(256):
@@ -20,7 +20,7 @@ for i in range(256):
     else:
         table.append(1)
 image = image.point(table,'1')
-#iamge.show()
+image.show()
 result = tesserocr.image_to_text(image)
 # print(tesserocr.file_to_text('image.png')) 此种方法没有上一面一种效果好
 print(result)

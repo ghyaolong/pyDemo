@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67e8e6d2-d25d-44fa-8edf-2e4458b14ade" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/storage/db/mongodb_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/db/mysql_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/db/redis_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/file_store/cvs_store.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/file_store/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/file_store/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/file_store/data1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/file_store/json_store.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/em_json.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/emb_json.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/explore.txt" beforeDir="false" afterPath="$PROJECT_DIR$/storage/file_store/explore.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/file_store_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/storage/file_store/file_store_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_code/test.png" beforeDir="false" afterPath="$PROJECT_DIR$/validation_code/test.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation_code/test_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/validation_code/test_demo.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,20 +26,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/storage/db/mongodb_demo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/storage/db/redis_demo.py">
+        <entry file="file://$PROJECT_DIR$/validation_code/slide_code.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="614">
-              <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+            <state relative-caret-position="484">
+              <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+              <folding>
+                <element signature="e#125#155#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -68,6 +50,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>newline</find>
+      <find>webdriver</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -92,14 +75,19 @@
         <option value="$PROJECT_DIR$/storage/db/mysql_demo.py" />
         <option value="$PROJECT_DIR$/storage/db/mongodb_demo.py" />
         <option value="$PROJECT_DIR$/storage/db/redis_demo.py" />
+        <option value="$PROJECT_DIR$/storage/db/jrtt_demo.py" />
+        <option value="$PROJECT_DIR$/taobaoproduct/config.py" />
+        <option value="$PROJECT_DIR$/taobaoproduct/spider.py" />
+        <option value="$PROJECT_DIR$/validation_code/test_demo.py" />
+        <option value="$PROJECT_DIR$/validation_code/slide_code.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1212" />
-    <option name="y" value="9" />
-    <option name="width" value="1334" />
-    <option name="height" value="1365" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="583" />
+    <option name="y" value="86" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -109,7 +97,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,32 +107,32 @@
             <path>
               <item name="pyDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="pyDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="storage" type="462c0819:PsiDirectoryNode" />
+              <item name="taobaoproduct" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pyDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="pyDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="storage" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pyDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="validation_code" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/validation_code" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="H:\PycharmProjects\pyDemo\storage\file_store" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PycharmProjects\pyDemo\validation_code" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -160,7 +147,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.redis_demo">
+  <component name="RunManager" selected="Python.test_demo">
     <configuration name="cvs_store (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -183,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="cvs_store" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="jrtt_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,34 +178,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/storage" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/storage/db" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="H:\PycharmProjects\pyDemo\storage\file_store\cvs_store.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="json_store" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pyDemo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/storage" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="H:\PycharmProjects\pyDemo\storage\file_store\json_store.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/storage/db/jrtt_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,13 +236,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/validation_code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/validation_code/test_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_demo" />
+        <item itemvalue="Python.jrtt_demo" />
         <item itemvalue="Python.redis_demo" />
         <item itemvalue="Python.mysql_demo" />
         <item itemvalue="Python.cvs_store (1)" />
-        <item itemvalue="Python.cvs_store" />
-        <item itemvalue="Python.json_store" />
       </list>
     </recent_temporary>
   </component>
@@ -294,6 +281,9 @@
       <workItem from="1557145101457" duration="3501000" />
       <workItem from="1557227925639" duration="9660000" />
       <workItem from="1557323407828" duration="4712000" />
+      <workItem from="1557673444067" duration="1202000" />
+      <workItem from="1557755181565" duration="4488000" />
+      <workItem from="1557836197260" duration="3485000" />
     </task>
     <task id="LOCAL-00001" summary="爬去猫眼电影排行">
       <created>1557145984074</created>
@@ -316,32 +306,46 @@
       <option name="project" value="LOCAL" />
       <updated>1557245695518</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="抓取今日头条搜索街拍关键词的结果">
+      <created>1557415446564</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1557415446564</updated>
+    </task>
+    <task id="LOCAL-00005" summary="tesserocr">
+      <created>1557765928050</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1557765928050</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33757000" />
+    <option name="totallyTimeSpent" value="47154000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1212" y="9" width="1334" height="1365" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49756888" visible="true" weight="0.19152276" />
-      <window_info id="Structure" order="1" sideWeight="0.5024311" side_tool="true" visible="true" weight="0.12953092" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.71924293" visible="true" weight="0.13486141" />
+      <window_info id="Structure" order="1" sideWeight="0.2807571" side_tool="true" visible="true" weight="0.13486141" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33143786" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31236443" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.24939272" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.2483731" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3290008" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32981315" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.34924078" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -381,11 +385,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="爬去猫眼电影排行" />
     <MESSAGE value="练习使用BeautifulSoup抓取html片段" />
-    <option name="LAST_COMMIT_MESSAGE" value="练习使用BeautifulSoup抓取html片段" />
+    <MESSAGE value="抓取今日头条搜索街拍关键词的结果" />
+    <MESSAGE value="tesserocr" />
+    <option name="LAST_COMMIT_MESSAGE" value="tesserocr" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pyDemo$xpath_demo.coverage" NAME="xpath_demo Coverage Results" MODIFIED="1557235440714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parselib" />
+    <SUITE FILE_PATH="coverage/pyDemo$test_demo.coverage" NAME="test_demo Coverage Results" MODIFIED="1557837357351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/validation_code" />
     <SUITE FILE_PATH="coverage/pyDemo$maoyan_spider.coverage" NAME="maoyan_spider Coverage Results" MODIFIED="1557145924089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
+    <SUITE FILE_PATH="coverage/pyDemo$jrtt_demo.coverage" NAME="jrtt_demo Coverage Results" MODIFIED="1557415337888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/storage/db" />
     <SUITE FILE_PATH="coverage/pyDemo$file_store_demo.coverage" NAME="file_store_demo Coverage Results" MODIFIED="1557329673309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/storage" />
     <SUITE FILE_PATH="coverage/pyDemo$bs4_demo.coverage" NAME="bs4_demo Coverage Results" MODIFIED="1557245645605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parselib" />
   </component>
@@ -449,13 +457,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider/requests_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/storage/file_store/explore.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1593">
@@ -494,13 +495,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1201333238/_csv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="131" column="4" selection-start-line="131" selection-start-column="4" selection-end-line="131" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1201333238/_csv.py" />
     <entry file="file://D:/Python37/Lib/site-packages/pip/_vendor/distlib/util.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="257">
@@ -515,13 +510,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1201333238/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="401" column="13" selection-start-line="353" selection-start-column="7" selection-end-line="472" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1201333238/builtins.py" />
     <entry file="file://$PROJECT_DIR$/storage/file_store/data.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -567,6 +556,76 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="614">
           <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/requests_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="96" selection-start-line="96" selection-end-line="98" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/db/jrtt_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="52" column="32" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+          <folding>
+            <element signature="e#128#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taobaoproduct/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="59" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taobaoproduct/spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#118#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validation_code/image.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validation_code/test.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validation_code/test_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="14" column="15" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="15" />
+          <folding>
+            <element signature="e#118#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_demo/selenium_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python37/Lib/site-packages/selenium/webdriver/support/wait.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validation_code/slide_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+          <folding>
+            <element signature="e#125#155#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
