@@ -9,6 +9,7 @@
 '''
 from lxml import etree
 
-html = etree.parse('github.html',etree.HTMLParser)
-result = etree.tostring(html)
-
+html = etree.parse('github.html',etree.HTMLParser())
+selector = etree.tostring(html)
+token = html.xpath('//input[@name="authenticity_token"]/@value')[0]
+print(token)
