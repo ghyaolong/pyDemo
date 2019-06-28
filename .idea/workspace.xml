@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67e8e6d2-d25d-44fa-8edf-2e4458b14ade" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cookiespool/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookiespool/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookiespool/db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookiespool/generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login/weibo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login/weibo/cookies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pyDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pyDemo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/validation_code/test.png" beforeDir="false" afterPath="$PROJECT_DIR$/validation_code/test.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/validation_code/test_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/validation_code/test_demo.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,20 +32,7 @@
     <SUITE FILE_PATH="coverage/pyDemo$mysql_demo.coverage" NAME="mysql_demo Coverage Results" MODIFIED="1557389486341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/storage/db" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/validation_code/slide_code.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
-              <folding>
-                <element signature="e#125#155#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -51,9 +45,15 @@
     <findStrings>
       <find>newline</find>
       <find>webdriver</find>
+      <find>//input[@id=&quot;user_profile_name&quot;]/@value')[0]</find>
+      <find>StrictRedis</find>
+      <find>choice</find>
+      <find>WeiboCookies</find>
+      <find>authenticity_token</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -80,6 +80,13 @@
         <option value="$PROJECT_DIR$/taobaoproduct/spider.py" />
         <option value="$PROJECT_DIR$/validation_code/test_demo.py" />
         <option value="$PROJECT_DIR$/validation_code/slide_code.py" />
+        <option value="$PROJECT_DIR$/parselib/github.html" />
+        <option value="$PROJECT_DIR$/parselib/xpath_github.py" />
+        <option value="$PROJECT_DIR$/parselib/github_login.py" />
+        <option value="$PROJECT_DIR$/cookies_pool/db.py" />
+        <option value="$PROJECT_DIR$/cookiespool/config.py" />
+        <option value="$PROJECT_DIR$/login/weibo/cookies.py" />
+        <option value="$PROJECT_DIR$/cookiespool/generator.py" />
       </list>
     </option>
   </component>
@@ -97,6 +104,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,26 +114,19 @@
             </path>
             <path>
               <item name="pyDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pyDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="taobaoproduct" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pyDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pyDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="validation_code" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/validation_code" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="last_opened_file_path" value="D:/Git/bin/git.exe" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -147,8 +148,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test_demo">
-    <configuration name="cvs_store (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.db">
+    <configuration name="db" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,12 +157,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/storage/file_store" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cookiespool" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/storage/file_store/cvs_store.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cookiespool/db.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="github_login" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/parselib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parselib/github_login.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,50 +215,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mysql_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pyDemo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/storage/db" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/storage/db/mysql_demo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="redis_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pyDemo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/storage/db" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/storage/db/redis_demo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -258,13 +237,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="xpath_github" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/parselib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parselib/xpath_github.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.db" />
+        <item itemvalue="Python.github_login" />
+        <item itemvalue="Python.xpath_github" />
         <item itemvalue="Python.test_demo" />
         <item itemvalue="Python.jrtt_demo" />
-        <item itemvalue="Python.redis_demo" />
-        <item itemvalue="Python.mysql_demo" />
-        <item itemvalue="Python.cvs_store (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -284,6 +285,13 @@
       <workItem from="1557673444067" duration="1202000" />
       <workItem from="1557755181565" duration="4488000" />
       <workItem from="1557836197260" duration="3485000" />
+      <workItem from="1557883778311" duration="2479000" />
+      <workItem from="1557911819791" duration="681000" />
+      <workItem from="1557912720248" duration="182000" />
+      <workItem from="1557987519879" duration="10094000" />
+      <workItem from="1561512126832" duration="936000" />
+      <workItem from="1561684747271" duration="503000" />
+      <workItem from="1561685268033" duration="974000" />
     </task>
     <task id="LOCAL-00001" summary="爬去猫眼电影排行">
       <created>1557145984074</created>
@@ -320,22 +328,28 @@
       <option name="project" value="LOCAL" />
       <updated>1557765928050</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="修改github的爬虫文件">
+      <created>1557990256494</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1557990256494</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47154000" />
+    <option name="totallyTimeSpent" value="63003000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.71924293" visible="true" weight="0.13486141" />
-      <window_info id="Structure" order="1" sideWeight="0.2807571" side_tool="true" visible="true" weight="0.13486141" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7121685" visible="true" weight="0.14297093" />
+      <window_info id="Structure" order="1" sideWeight="0.28783152" side_tool="true" visible="true" weight="0.14297093" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31236443" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27847114" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -344,13 +358,14 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.2483731" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.34924078" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.34867394" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="aiXcoder" order="5" side_tool="true" />
     </layout>
     <layout-to-restore>
       <window_info id="Favorites" order="0" side_tool="true" />
@@ -387,11 +402,15 @@
     <MESSAGE value="练习使用BeautifulSoup抓取html片段" />
     <MESSAGE value="抓取今日头条搜索街拍关键词的结果" />
     <MESSAGE value="tesserocr" />
-    <option name="LAST_COMMIT_MESSAGE" value="tesserocr" />
+    <MESSAGE value="修改github的爬虫文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改github的爬虫文件" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pyDemo$xpath_demo.coverage" NAME="xpath_demo Coverage Results" MODIFIED="1557235440714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parselib" />
+    <SUITE FILE_PATH="coverage/pyDemo$github_login.coverage" NAME="github_login Coverage Results" MODIFIED="1557990075037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parselib" />
     <SUITE FILE_PATH="coverage/pyDemo$test_demo.coverage" NAME="test_demo Coverage Results" MODIFIED="1557837357351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/validation_code" />
+    <SUITE FILE_PATH="coverage/pyDemo$xpath_github.coverage" NAME="xpath_github Coverage Results" MODIFIED="1557989991974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parselib" />
+    <SUITE FILE_PATH="coverage/pyDemo$db.coverage" NAME="db Coverage Results" MODIFIED="1557997050560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cookiespool" />
     <SUITE FILE_PATH="coverage/pyDemo$maoyan_spider.coverage" NAME="maoyan_spider Coverage Results" MODIFIED="1557145924089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
     <SUITE FILE_PATH="coverage/pyDemo$jrtt_demo.coverage" NAME="jrtt_demo Coverage Results" MODIFIED="1557415337888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/storage/db" />
     <SUITE FILE_PATH="coverage/pyDemo$file_store_demo.coverage" NAME="file_store_demo Coverage Results" MODIFIED="1557329673309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/storage" />
@@ -409,12 +428,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/parselib/123.py" />
-    <entry file="file://D:/Python37/Lib/site-packages/lxml/etree.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://D:/Python37/Lib/site-packages/lxml/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://D:/Python37/Lib/site-packages/lxml/etree.h" />
+    <entry file="file://D:/Python37/Lib/site-packages/lxml/__init__.py" />
     <entry file="file://$PROJECT_DIR$/spider/maoyan_spider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
@@ -433,23 +448,8 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1201333238/lxml/etree/_Element.py" />
-    <entry file="file://D:/Python37/Lib/site-packages/bs4/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-225">
-          <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python37/Lib/site-packages/bs4/dammit.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parselib/bs4_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="132" column="43" lean-forward="true" selection-start-line="132" selection-start-column="43" selection-end-line="132" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/Python37/Lib/site-packages/bs4/__init__.py" />
+    <entry file="file://D:/Python37/Lib/site-packages/bs4/dammit.py" />
     <entry file="file://$PROJECT_DIR$/parselib/xpath_demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -616,15 +616,116 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Python37/Lib/site-packages/selenium/webdriver/support/wait.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://D:/Python37/Lib/site-packages/selenium/webdriver/support/wait.py" />
     <entry file="file://$PROJECT_DIR$/validation_code/slide_code.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+        <state relative-caret-position="408">
+          <caret line="22" column="41" lean-forward="true" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
           <folding>
             <element signature="e#125#155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parselib/pyquery_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="27" column="14" lean-forward="true" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+          <folding>
+            <element signature="e#108#141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parselib/bs4_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="797">
+          <caret line="132" column="43" lean-forward="true" selection-start-line="132" selection-start-column="43" selection-end-line="132" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python37/Lib/site-packages/redis/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python37/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="255" column="26" lean-forward="true" selection-start-line="255" selection-start-column="26" selection-end-line="255" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python37/Lib/site-packages/redis/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="767" column="8" selection-start-line="767" selection-start-column="8" selection-end-line="767" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/weibo/cookies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="55" lean-forward="true" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookiespool/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1201333238/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="3994" column="25" selection-start-line="3994" selection-start-column="6" selection-end-line="3994" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parselib/github.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4175">
+          <caret line="167" column="129" selection-start-line="167" selection-start-column="111" selection-end-line="167" selection-end-column="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parselib/github_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookiespool/db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parselib/xpath_github.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookiespool/generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
