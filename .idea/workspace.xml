@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="67e8e6d2-d25d-44fa-8edf-2e4458b14ade" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parselib/pyquery_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/parselib/pyquery_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parselib/xpath_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/parselib/xpath_demo.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,95 +26,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base/urilib/demo2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base/urilib/demo3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-              <folding>
-                <element signature="e#38#57#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base/urilib/demo4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base/urilib/demo5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="53" lean-forward="true" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base/urilib/demo6.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base/urilib/demo7.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base/urilib/parsedemo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base/urilib/demo8.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base/urilib/demo9.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="743">
-              <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/base/urilib/requestsdemo.py">
+        <entry file="file://$PROJECT_DIR$/file/txt_demo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+            <state relative-caret-position="391">
+              <caret line="27" column="51" lean-forward="true" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
+              <folding>
+                <element signature="e#111#126#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -142,7 +63,6 @@
         <option value="$PROJECT_DIR$/spider/maoyan_spider.py" />
         <option value="$PROJECT_DIR$/parselib/123.py" />
         <option value="$PROJECT_DIR$/parselib/test.html" />
-        <option value="$PROJECT_DIR$/parselib/xpath_demo.py" />
         <option value="$PROJECT_DIR$/parselib/bs4_demo.py" />
         <option value="$PROJECT_DIR$/spider/requests_demo.py" />
         <option value="$PROJECT_DIR$/storage/file_store_demo.py" />
@@ -165,21 +85,18 @@
         <option value="$PROJECT_DIR$/parselib/github.html" />
         <option value="$PROJECT_DIR$/parselib/xpath_github.py" />
         <option value="$PROJECT_DIR$/db/mongodb.py" />
-        <option value="$PROJECT_DIR$/base/urilib/demo1.py" />
-        <option value="$PROJECT_DIR$/base/urilib/demo2.py" />
-        <option value="$PROJECT_DIR$/base/urilib/demo3.py" />
-        <option value="$PROJECT_DIR$/base/urilib/demo4.py" />
-        <option value="$PROJECT_DIR$/base/urilib/demo5.py" />
-        <option value="$PROJECT_DIR$/base/urilib/demo6.py" />
-        <option value="$PROJECT_DIR$/base/urilib/cookies.txt" />
-        <option value="$PROJECT_DIR$/base/urilib/cookie_test.py" />
-        <option value="$PROJECT_DIR$/base/urilib/cookies1.txt" />
-        <option value="$PROJECT_DIR$/base/urilib/cookie_test2.py" />
-        <option value="$PROJECT_DIR$/base/urilib/demo7.py" />
-        <option value="$PROJECT_DIR$/base/urilib/parsedemo.py" />
-        <option value="$PROJECT_DIR$/base/urilib/demo8.py" />
-        <option value="$PROJECT_DIR$/base/urilib/demo9.py" />
-        <option value="$PROJECT_DIR$/base/urilib/requestsdemo.py" />
+        <option value="$PROJECT_DIR$/base/request/demo1.py" />
+        <option value="$PROJECT_DIR$/base/request/demo2.py" />
+        <option value="$PROJECT_DIR$/base/request/upload_file.py" />
+        <option value="$PROJECT_DIR$/base/request/request_cookie.py" />
+        <option value="$PROJECT_DIR$/base/request/zhihu_demo.py" />
+        <option value="$PROJECT_DIR$/base/request/session-test.py" />
+        <option value="$PROJECT_DIR$/base/request/request_demo2.py" />
+        <option value="$PROJECT_DIR$/base/request/regex_demo1.py" />
+        <option value="$PROJECT_DIR$/parselib/xpath_demo.py" />
+        <option value="$PROJECT_DIR$/parselib/bs4_demo2.py" />
+        <option value="$PROJECT_DIR$/parselib/pyquery_demo.py" />
+        <option value="$PROJECT_DIR$/file/txt_demo.py" />
       </list>
     </option>
   </component>
@@ -197,19 +114,39 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pyDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/base/urilib" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/base/request" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\PycharmProjects\pyDemo\base\urilib" />
+      <recent name="E:\PycharmProjects\pyDemo\base\request" />
       <recent name="E:\PycharmProjects\pyDemo\validation_code" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -228,8 +165,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.requestsdemo">
-    <configuration name="demo7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.txt_demo">
+    <configuration name="bs4_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,12 +174,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/base/urilib" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/parselib" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base/urilib/demo7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parselib/bs4_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,7 +188,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="bs4_demo2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -259,12 +196,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/base/urilib" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/parselib" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base/urilib/demo8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parselib/bs4_demo2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -273,7 +210,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pyquery_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -281,12 +218,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/base/urilib" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/parselib" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base/urilib/demo9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parselib/pyquery_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,7 +232,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="parsedemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="txt_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,12 +240,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/base/urilib" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base/urilib/parsedemo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file/txt_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -317,7 +254,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="requestsdemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="xpath_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -325,12 +262,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/base/urilib" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/parselib" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base/urilib/requestsdemo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parselib/xpath_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -341,11 +278,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.requestsdemo" />
-        <item itemvalue="Python.demo9" />
-        <item itemvalue="Python.demo8" />
-        <item itemvalue="Python.parsedemo" />
-        <item itemvalue="Python.demo7" />
+        <item itemvalue="Python.txt_demo" />
+        <item itemvalue="Python.pyquery_demo" />
+        <item itemvalue="Python.bs4_demo2" />
+        <item itemvalue="Python.bs4_demo" />
+        <item itemvalue="Python.xpath_demo" />
       </list>
     </recent_temporary>
   </component>
@@ -365,9 +302,12 @@
       <workItem from="1557673444067" duration="1202000" />
       <workItem from="1557755181565" duration="4488000" />
       <workItem from="1557836197260" duration="9998000" />
-      <workItem from="1558025090173" duration="1181000" />
-      <workItem from="1561688170464" duration="2310000" />
-      <workItem from="1561690771718" duration="13249000" />
+      <workItem from="1558025090173" duration="1273000" />
+      <workItem from="1561901514551" duration="27000" />
+      <workItem from="1561904056235" duration="5994000" />
+      <workItem from="1561985298051" duration="1374000" />
+      <workItem from="1562067502556" duration="2547000" />
+      <workItem from="1562160432649" duration="7236000" />
     </task>
     <task id="LOCAL-00001" summary="爬去猫眼电影排行">
       <created>1557145984074</created>
@@ -425,22 +365,29 @@
       <option name="project" value="LOCAL" />
       <updated>1557853129075</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="操作mongodb">
+      <created>1558026351192</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1558026351192</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70407000" />
+    <option name="totallyTimeSpent" value="72118000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.713369" visible="true" weight="0.14137794" />
-      <window_info id="Structure" order="1" sideWeight="0.28663102" side_tool="true" visible="true" weight="0.14137794" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7169197" visible="true" weight="0.1433902" />
+      <window_info id="Structure" order="1" sideWeight="0.28308025" side_tool="true" weight="0.13859275" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27067083" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30477223" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -456,7 +403,6 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="aiXcoder" order="5" side_tool="true" />
     </layout>
     <layout-to-restore>
       <window_info id="Favorites" order="0" side_tool="true" />
@@ -494,33 +440,50 @@
     <MESSAGE value="抓取今日头条搜索街拍关键词的结果" />
     <MESSAGE value="tesserocr" />
     <MESSAGE value="模拟github登陆（未完成）" />
-    <option name="LAST_COMMIT_MESSAGE" value="模拟github登陆（未完成）" />
+    <MESSAGE value="操作mongodb" />
+    <option name="LAST_COMMIT_MESSAGE" value="操作mongodb" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pyDemo$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1561689691074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base/urilib" />
-    <SUITE FILE_PATH="coverage/pyDemo$demo5.coverage" NAME="demo5 Coverage Results" MODIFIED="1561690845227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base/urilib" />
-    <SUITE FILE_PATH="coverage/pyDemo$xpath_demo.coverage" NAME="xpath_demo Coverage Results" MODIFIED="1557235440714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parselib" />
-    <SUITE FILE_PATH="coverage/pyDemo$demo8.coverage" NAME="demo8 Coverage Results" MODIFIED="1561708102116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base/urilib" />
+    <SUITE FILE_PATH="coverage/pyDemo$xpath_demo.coverage" NAME="xpath_demo Coverage Results" MODIFIED="1561985326282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parselib" />
+    <SUITE FILE_PATH="coverage/pyDemo$request_demo2.coverage" NAME="request_demo2 Coverage Results" MODIFIED="1561911400091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base/request" />
     <SUITE FILE_PATH="coverage/pyDemo$proxy_demo.coverage" NAME="proxy_demo Coverage Results" MODIFIED="1557845836835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy" />
     <SUITE FILE_PATH="coverage/pyDemo$test_demo.coverage" NAME="test_demo Coverage Results" MODIFIED="1557837357351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/validation_code" />
-    <SUITE FILE_PATH="coverage/pyDemo$parsedemo.coverage" NAME="parsedemo Coverage Results" MODIFIED="1561706939516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base/urilib" />
-    <SUITE FILE_PATH="coverage/pyDemo$demo9.coverage" NAME="demo9 Coverage Results" MODIFIED="1561714414124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base/urilib" />
-    <SUITE FILE_PATH="coverage/pyDemo$requestsdemo.coverage" NAME="requestsdemo Coverage Results" MODIFIED="1561715922418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base/urilib" />
-    <SUITE FILE_PATH="coverage/pyDemo$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1561688813452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base/urilib" />
+    <SUITE FILE_PATH="coverage/pyDemo$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1561907840959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base/request" />
     <SUITE FILE_PATH="coverage/pyDemo$jrtt_demo.coverage" NAME="jrtt_demo Coverage Results" MODIFIED="1557415337888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/storage/db" />
-    <SUITE FILE_PATH="coverage/pyDemo$demo4.coverage" NAME="demo4 Coverage Results" MODIFIED="1561690283132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base/urilib" />
     <SUITE FILE_PATH="coverage/pyDemo$file_store_demo.coverage" NAME="file_store_demo Coverage Results" MODIFIED="1557329673309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/storage" />
-    <SUITE FILE_PATH="coverage/pyDemo$bs4_demo.coverage" NAME="bs4_demo Coverage Results" MODIFIED="1557245645605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parselib" />
-    <SUITE FILE_PATH="coverage/pyDemo$cookie_test2.coverage" NAME="cookie_test2 Coverage Results" MODIFIED="1561696093572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base/urilib" />
+    <SUITE FILE_PATH="coverage/pyDemo$bs4_demo.coverage" NAME="bs4_demo Coverage Results" MODIFIED="1562067708617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parselib" />
     <SUITE FILE_PATH="coverage/pyDemo$github_login.coverage" NAME="github_login Coverage Results" MODIFIED="1557852815796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simulation_login" />
     <SUITE FILE_PATH="coverage/pyDemo$mongodb.coverage" NAME="mongodb Coverage Results" MODIFIED="1558026272631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" />
-    <SUITE FILE_PATH="coverage/pyDemo$demo7.coverage" NAME="demo7 Coverage Results" MODIFIED="1561696816551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base/urilib" />
-    <SUITE FILE_PATH="coverage/pyDemo$demo6.coverage" NAME="demo6 Coverage Results" MODIFIED="1561693132574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base/urilib" />
+    <SUITE FILE_PATH="coverage/pyDemo$bs4_demo2.coverage" NAME="bs4_demo2 Coverage Results" MODIFIED="1562164457893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parselib" />
+    <SUITE FILE_PATH="coverage/pyDemo$upload_file.coverage" NAME="upload_file Coverage Results" MODIFIED="1561908882171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base/request" />
+    <SUITE FILE_PATH="coverage/pyDemo$request_cookie.coverage" NAME="request_cookie Coverage Results" MODIFIED="1561909100577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base/request" />
     <SUITE FILE_PATH="coverage/pyDemo$maoyan_spider.coverage" NAME="maoyan_spider Coverage Results" MODIFIED="1557145924089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
-    <SUITE FILE_PATH="coverage/pyDemo$demo3.coverage" NAME="demo3 Coverage Results" MODIFIED="1561689921234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base/urilib" />
-    <SUITE FILE_PATH="coverage/pyDemo$cookie_test.coverage" NAME="cookie_test Coverage Results" MODIFIED="1561694183187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base/urilib" />
+    <SUITE FILE_PATH="coverage/pyDemo$zhihu_demo.coverage" NAME="zhihu_demo Coverage Results" MODIFIED="1561910008295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base/request" />
+    <SUITE FILE_PATH="coverage/pyDemo$session_test.coverage" NAME="session-test Coverage Results" MODIFIED="1561910785551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base/request" />
+    <SUITE FILE_PATH="coverage/pyDemo$pyquery_demo.coverage" NAME="pyquery_demo Coverage Results" MODIFIED="1562167009700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parselib" />
+    <SUITE FILE_PATH="coverage/pyDemo$txt_demo.coverage" NAME="txt_demo Coverage Results" MODIFIED="1562172356823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/file" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://D:/Python37/Lib/site-packages/bs4/dammit.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/file_store/explore.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1593">
+          <caret line="59" column="2" lean-forward="true" selection-start-line="59" selection-start-column="2" selection-end-line="59" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/file_store/file_store_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#111#126#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/emb_json.json">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -606,6 +569,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spider/requests_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="96" selection-start-line="96" selection-end-line="98" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/storage/db/jrtt_demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -669,13 +639,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proxy/proxy_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/simulation_login/github_login.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1325">
@@ -686,10 +649,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/parselib/xpath_demo.py">
+    <entry file="file://D:/Python37/Lib/site-packages/requests/cookies.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="253">
+          <caret line="520" column="37" selection-start-line="520" selection-start-column="33" selection-end-line="520" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python37/Lib/site-packages/requests/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="628" column="34" selection-start-line="628" selection-start-column="34" selection-end-line="628" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/request/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/request/abc.txt" />
+    <entry file="file://$PROJECT_DIR$/base/request/request_cookie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/request/zhihu_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="15" column="128" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="128" />
         </state>
       </provider>
     </entry>
@@ -709,163 +697,113 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/db/mongodb.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        <state relative-caret-position="300">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Python37/Lib/urllib/request.py">
+    <entry file="file://$PROJECT_DIR$/base/request/demo1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="324" column="8" selection-start-line="324" selection-start-column="8" selection-end-line="324" selection-end-column="8" />
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login/weibo/cookies.py">
+    <entry file="file://$PROJECT_DIR$/base/request/demo2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2925">
+        <state relative-caret-position="425">
+          <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy/proxy_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parselib/bs4_demo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parselib/github_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="139" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="139" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/parselib/bs4_demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3300">
-          <caret line="132" column="43" lean-forward="true" selection-start-line="132" selection-start-column="43" selection-end-line="132" selection-end-column="43" />
+        <state relative-caret-position="3000">
+          <caret line="120" column="6" lean-forward="true" selection-start-line="120" selection-start-column="6" selection-end-line="120" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider/result.txt">
+    <entry file="file://$PROJECT_DIR$/parselib/xpath_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="127" selection-start-line="127" selection-end-line="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/request/regex_demo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/request/request_demo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/request/session-test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/request/upload_file.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
-          <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider/requests_demo.py">
+    <entry file="file://$PROJECT_DIR$/parselib/pyquery_demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="97" column="134" lean-forward="true" selection-start-line="97" selection-start-column="3" selection-end-line="97" selection-end-column="134" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/urilib/demo1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/urilib/demo2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/urilib/demo3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        <state relative-caret-position="147">
+          <caret line="121" selection-start-line="121" selection-end-line="131" selection-end-column="9" />
           <folding>
-            <element signature="e#38#57#0" expanded="true" />
+            <element signature="e#108#141#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/base/urilib/demo4.py">
+    <entry file="file://$PROJECT_DIR$/file/explore.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-        </state>
+        <state relative-caret-position="-1575" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/base/urilib/demo5.py">
+    <entry file="file://$PROJECT_DIR$/file/txt_demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="53" lean-forward="true" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/urilib/cookies.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="6" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/urilib/cookies1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="125" lean-forward="true" selection-start-line="3" selection-start-column="125" selection-end-line="3" selection-end-column="125" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/urilib/cookie_test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/urilib/cookie_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/urilib/demo6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1201333238/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="488" column="4" selection-start-line="488" selection-start-column="4" selection-end-line="488" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python37/Lib/urllib/error.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/urilib/demo7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/urilib/parsedemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/urilib/demo8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/urilib/demo9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="743">
-          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/urilib/requestsdemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        <state relative-caret-position="391">
+          <caret line="27" column="51" lean-forward="true" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
+          <folding>
+            <element signature="e#111#126#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

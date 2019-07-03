@@ -20,13 +20,13 @@ text='''
 </div>
 '''
 #
-# html = etree.HTML(text)
-# result = etree.tostring(html)
-# print(result.decode('utf8'))
+html = etree.HTML(text)
+result = etree.tostring(html)
+print(result.decode('utf8'))
 
 ############  获取所有节点
 # html = etree.parse('test.html',etree.HTMLParser())
-# result = html.xpath('//*')
+# result = html.xpath('//*')  ORM
 # print(result)
 ##  获取所有li节点
 # html = etree.parse('test.html',etree.HTMLParser())
@@ -123,6 +123,10 @@ html = etree.HTML(text)
 ## 选取当前节点之后的所有同级节点
 result = html.xpath('//li[1]/following-sibling::*')
 print(len(result))
+
+
+
+
 
 
 

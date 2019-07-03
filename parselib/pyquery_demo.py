@@ -23,32 +23,39 @@ html='''
 '''
 doc = pq(html)
 # doc = pq(html)
-# #print(doc('li'))
+print(doc('li'))
+print('*'*50)
 #
 # ## 2.2url初始化
-# doc = pq(url='http://cuiqingcai.com')
-# print(doc('title'))
+doc = pq(url='http://cuiqingcai.com')
+print(doc('title'))
+print('*'*50)
+
 #
-# doc = pq(requests.get('https://cuiqingcai.com').text)
-# print(doc('title'))
+doc = pq(requests.get('https://cuiqingcai.com').text)
+print(doc('title'))
+print('*'*50)
 #
 # ## 2.3 文件初始化
-# doc = pq(filename='test.html')
-# print(doc('li'))
+doc = pq(filename='test.html')
+print(doc('li'))
+print('*'*50)
 
 ## 3.基本的CSS选择器
-# doc = pq(html)
-# print(doc('#container .list li'))
-# print(type(doc('#container .list li')))
+doc = pq(html)
+print(doc('#container .list li'))
+print(type(doc('#container .list li')))
+print('*'*50)
+
 
 ## 4.查找节点
 
 items = doc('.list')
-# print(items)
-# print(type(items))
-# lis = items.find('li')
-# print(type(lis))
-# print(lis)
+print(items)
+print(type(items))
+lis = items.find('li')
+print(type(lis))
+print(lis)
 #子节点
 # lis = items.children('.active')
 # print(lis)
