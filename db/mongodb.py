@@ -8,12 +8,13 @@
 @Desc:
 '''
 import pymongo
-client = pymongo.MongoClient(host='localhost',port=27017)
+client = pymongo.MongoClient(host='localhost',port=27017)  # 或client = pymongo.MongoClient('mongodb://localhost:27017/')
+# 指定数据库
 db = client['DB']
 collection = db['student']
 student = {
-    'id':'20170001',
-    'name':'json',
+    'id':'20170002',
+    'name':'lisi',
     'age':20,
     'gender':'male'
 }
